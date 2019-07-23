@@ -1,3 +1,3 @@
 # hello-world
 yes
-I am gay
+I am gay.
